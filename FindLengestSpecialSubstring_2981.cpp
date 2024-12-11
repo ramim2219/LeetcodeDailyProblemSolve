@@ -1,3 +1,4 @@
+//Problem Link: https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-12-10
 #include<bits/stdc++.h>
 #define ll long long int
 #define endl '\n'
